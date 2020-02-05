@@ -4,6 +4,7 @@
    "Version": "0.1",
    "Description": "Oh god why are the fish sentient make it stop.",
    "UniqueID": "HarkonenBade.nonsentient_fish",
+   "UpdateKeys": [ "GitHub:HarkonenBade/Non-sentient-Fish" ],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",
       }
