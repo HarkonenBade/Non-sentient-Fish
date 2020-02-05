@@ -1,0 +1,10 @@
+{
+   "Name": "Non-sentient Fish",
+   "Author": "HarkonenBade",
+   "Version": "0.1",
+   "Description": "Oh god why are the fish sentient make it stop.",
+   "UniqueID": "HarkonenBade.nonsentient_fish",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      }
+}
